@@ -40,3 +40,40 @@ main{
     align-items: center;
     justify-content: center;
 }
+
+#instagram{
+    opacity: 1;
+    transform: scale(1);
+    transition: all ease-in-out 300ms;
+}
+#instagram:hover{
+    opacity: .8;
+    transform: scale(.8);
+}
+#twitter{
+    opacity: 1;
+    transform: scale(1);
+    transition: all ease-in-out 300ms;
+}
+#twitter:hover{
+    opacity: .8;
+    transform: scale(.8);
+}
+#btnAbout{
+    opacity: 1;
+    transform: scale(1);
+    transition: all ease-in-out 300ms;
+}
+#btnAbout:hover{
+    opacity: .8;
+    transform: scale(.8);
+}
+#btnContact{
+    opacity: 1;
+    transform: scale(1);
+    transition: all ease-in-out 300ms;
+}
+#btnContact:hover{
+    opacity: .8;
+    transform: scale(.8);
+}
